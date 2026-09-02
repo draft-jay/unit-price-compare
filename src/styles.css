@@ -7,6 +7,11 @@
 .form-row input,.form-row select{font-size:19px;padding:12px 0 11px;min-height:48px}
 .form-row label{font-size:12px}
 .primary{padding:15px;font-size:16px}
+.form-actions{display:flex;gap:9px;align-items:stretch}
+.form-actions .primary{flex:1}
+.clear-form{width:54px;border:0;border-radius:10px;background:#fff;color:#71847c;font-size:24px;line-height:1;box-shadow:0 5px 12px #34534a12}
+.clear-form:active{background:#f0f4f1}
+.product-card{cursor:pointer}
 .product-card{padding-right:14px;padding-bottom:25px}
 .card-actions{right:9px;bottom:5px;gap:12px}
 .card-actions button{min-width:28px;min-height:28px;padding:5px 4px}
